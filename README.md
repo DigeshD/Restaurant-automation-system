@@ -8,7 +8,7 @@ Template is written with django 5.0.4 and python 3.12 in mind.
 
 Default Home Page after logging into the website !
 
-![image](https://drive.google.com/file/d/1EUapkzGoWqBsOOnM5BYVHlMa7PRDU6YW/view?usp=sharing)
+![image](https://raw.githubusercontent.com/DigeshD/Restaurant-automation system/refs/heads/master/home.jpg)
 
 
 ### Main features
