@@ -6,9 +6,9 @@ The goal of this project is to provide to introduce online food booking of a res
 
 Template is written with django 5.0.4 and python 3.12 in mind.
 
-Default Home Page after logging into the website !
+Default Home Page after logging into the website !!
 
-![image](https://raw.githubusercontent.com/DigeshD/Restaurant-automation system/refs/heads/master/home.jpg)
+![image](https://raw.githubusercontent.com/DigeshD/Restaurant-automation-system/refs/heads/master/home.jpg)
 
 
 ### Main features
